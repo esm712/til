@@ -8,7 +8,7 @@ Why? 함수가 하는 일을 이해하기 쉬워진다.
 ```
 moneyAmount와 money가 구분하기 어렵다.
 ```
-Why? 읽는 사람이 차이를 알압
+Why? 읽는 사람이 차이를 알아보기 쉬어야한다.
 ## 발음하기 쉬운 이름을 사용하라
 ```
 genymdhms(generate date, yaer, month, day, hour, minute, seconde)
