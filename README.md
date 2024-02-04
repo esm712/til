@@ -7,6 +7,7 @@
 - [IP](https://github.com/esm712/til/blob/master/Network/ip.md)
 - [TCP/UDP](https://github.com/esm712/til/blob/master/Network/tcp_udp.md)
 - [PORT](https://github.com/esm712/til/blob/master/Network/port.md)
+- [DNS](https://github.com/esm712/til/blob/master/Network/dns.md)
 
 ## CleanCode
 
