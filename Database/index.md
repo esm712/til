@@ -1,8 +1,6 @@
 ## 인덱스가 중요한 이유
 
-<code>
-SELECT * FROM customer WHERE name = 'SeungMin';
-</code>
+<code>SELECT \* FROM customer WHERE name = 'SeungMin';</code>
 
 name에 인덱스가 걸려있지 않다면? 시간복잡도 : O(N)  
 namd에 인덱스를 걸려있다면? 시간복잡도 : O(logN)
